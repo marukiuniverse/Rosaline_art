@@ -1,5 +1,9 @@
 <html>
   <head>
+    <style>
+      @font-face {
+    font-family:RyujinAttack;
+      </style>
     Биография Розалины
     </head>
   <img src="Розалина.jpeg"/> <BR>
