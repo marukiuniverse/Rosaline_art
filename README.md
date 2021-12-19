@@ -1,13 +1,9 @@
 <html>
   <head>
-    <style>
   @font-face {
     font-family: F16;
     src: url("RyujinAttack.otf") format('truetype');
-    font-weight: bold;
-    font-style: normal;
 }
-      </style>
     <h1> Биография Розалины </h1>
     </head>
   <img src="Розалина.jpeg"/> <BR>
