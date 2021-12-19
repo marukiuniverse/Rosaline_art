@@ -13,4 +13,5 @@
 <p>Рабочее место </p>
 <img src="комната.png"/> <BR>
   <p> Ссылка на видео ее истории </p>
-  
+  <p> https://www.youtube.com/watch?v=KV-2Bd0qsvc </p>
+</html>
