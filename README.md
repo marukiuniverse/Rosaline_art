@@ -7,7 +7,7 @@
    h1 {
       font-family: RyujinAttack;
       </style>
-    Биография Розалины
+    <h1> Биография Розалины </h1>
     </head>
   <img src="Розалина.jpeg"/> <BR>
   <body>
