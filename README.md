@@ -1,8 +1,11 @@
 <html>
   <head>
     <style>
-      @font-face {
-    font-family:RyujinAttack;
+  font-family:RyujinAttack; 
+  src: url(fonts/RyujinAttack.otf);
+      }
+   h1 {
+      font-family: RyujinAttack;
       </style>
     Биография Розалины
     </head>
