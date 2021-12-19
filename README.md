@@ -1,9 +1,6 @@
 <html>
   <head>
     <style>
-  font-family:RyujinAttack; 
-  src: url(fonts/RyujinAttack.otf);
-      }
    h1 {
       font-family: RyujinAttack;
       </style>
