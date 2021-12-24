@@ -12,7 +12,6 @@
 <img src="картина 2.jpg"/> <BR>
 <p>Рабочее место </p>
 <img src="комната.png"/> <BR>
-  <p> Ссылка на видео ее истории </p>
   <ul>
   <li> <a href= "https://www.youtube.com/watch?v=KV-2Bd0qsvc">Ссылка на видео истории Розалины </a></li>
 </html>
