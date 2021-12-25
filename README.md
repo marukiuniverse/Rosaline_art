@@ -2,7 +2,7 @@
   <head>
     <h1> Биография Розалины </h1>
     </head>
-  style="font-family:font131"
+  <style="font-family:font131">
     Розалина
   <img src="Розалина.jpeg"/> <BR>
   <body>
