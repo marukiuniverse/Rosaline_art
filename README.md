@@ -1,5 +1,6 @@
 <html>
   <head>
+    <li> <a href= "https://disk.yandex.ru/d/rxNiEUNsysul8w">Ссылка на шрифт </a> </li>
     <h1> Биография Розали </h1>
     </head>
   <body style="font-family:SVGFont 1"> </body>
